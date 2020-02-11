@@ -5,3 +5,5 @@
 使用 hexo g 在 public 文件夹生成静态网站
 
 使用 hexo s 在本地调试网站效果
+
+<https://blog.wizzstudio.com>
